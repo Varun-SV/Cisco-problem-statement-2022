@@ -11,13 +11,13 @@ Python Problem Statement
 ## Output Format
 ---
 ```text
-The first IP address in Decimal, Binary, Octal and hexadecimal format is &lt;output from the file conversion. txt>  
-The second IP address in Decimal, Binary, Octal and hexadecimal format is &lt;output from the file conversion. txt>  
+The first IP address in Decimal, Binary, Octal and hexadecimal format is <output from the file conversion. txt>  
+The second IP address in Decimal, Binary, Octal and hexadecimal format is <output from the file conversion. txt>  
 |  
 .  
 .  
 .  
 |  
-The tenth IP address in Decimal, Binary, Octal and hexadecimal format is &lt;output from the file conversion. txt>
+The tenth IP address in Decimal, Binary, Octal and hexadecimal format is <output from the file conversion. txt>
 ```
 -----------------------------------------------------------------------------------------
